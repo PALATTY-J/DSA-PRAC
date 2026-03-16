@@ -1,1 +1,1 @@
-console.warn('test ')
+console.warn('test')
